@@ -13,3 +13,4 @@ min_version = 0.16
 [author]
   name = "Goetz Epperlein"
   homepage = "https://github.com/lony"
+  repo = "https://github.com/lony/hugo-hemingway3"
